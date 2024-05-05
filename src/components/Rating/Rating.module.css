@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+
+.rating {
+    font-family: 'Audiowide';
+    font-size: 20px;
+    padding: 15px;
+    width: 35px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.ratingGood {
+    background-color: rgb(129, 253, 107);
+}
+
+.ratingNeutral {
+    background-color: rgb(147, 147, 147);
+}
+
+.ratingBad {
+    background-color: rgb(247, 94, 94);
+}

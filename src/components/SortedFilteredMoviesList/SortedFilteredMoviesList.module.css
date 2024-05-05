@@ -1,0 +1,11 @@
+.filterSort {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-bottom: 30px;
+}
+
+.button {
+    width: 150px;
+    height: 100px;
+}

@@ -1,0 +1,22 @@
+.comment {
+    margin-bottom: 30px;
+    display: flex;
+    gap: 30px;
+    width: 70%;
+}
+
+.commentImg {
+    width: 100px;
+    height: 100px;
+}
+
+.commentText {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.commentUser {
+    font-weight: bold;
+    font-size: 17px;
+}

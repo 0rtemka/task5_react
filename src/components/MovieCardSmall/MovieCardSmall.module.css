@@ -1,0 +1,17 @@
+.movieCard {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    width: 200px;
+}
+
+.movieCard:hover {
+    text-decoration: underline;
+}
+
+.movieImg {
+    width: 140px;
+}
