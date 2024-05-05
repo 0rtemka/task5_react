@@ -1,0 +1,32 @@
+.movieDesc {
+    display:flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.movieTitle {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.movieTitle:hover {
+    text-decoration: underline;
+}
+
+.genres {
+    display: flex;
+    flex-direction: column;
+    text-decoration: underline dotted;
+}
+
+.genre:hover {
+    font-weight: bold;
+}
+
+.movieTable {
+    border-spacing: 20px;
+}
+
+td:nth-child(1) {
+    text-decoration:underline;
+}

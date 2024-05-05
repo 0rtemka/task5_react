@@ -1,0 +1,13 @@
+.buttonIcon {
+    padding: 10px;
+    display: flex;
+    width: fit-content;
+    border: none;
+    background-color: lightgray;
+    border-radius: 100px;
+    line-height: 30px;
+}
+
+.buttonIcon:hover {
+    background-color: rgb(162, 162, 162);
+}

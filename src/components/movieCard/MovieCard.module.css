@@ -1,0 +1,28 @@
+.movieCard {
+    display: flex;
+    justify-content: space-around;
+    vertical-align: middle;
+    padding: 30px;
+    width: 75%;
+    border: 1px solid black;
+    border-radius: 8px;
+    margin-bottom: 5px;
+}
+
+.movieText {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 60%;
+}
+
+.movieTitle {
+    font-size: 32px;
+}
+
+.movieImg {
+    width: 30%;
+    height: 80%;
+    border: 3px solid lightgrey;
+    border-radius: 5px;
+}

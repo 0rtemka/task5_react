@@ -1,0 +1,11 @@
+.comments {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+}
+
+.commentsTitle {
+    font-size: 22px;
+    font-weight: bold;
+}
